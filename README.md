@@ -1,4 +1,4 @@
-# os-lab-miniproject
+# DISTRIBUTED ORCHESTRA SIMULATOR
 
 # PROBLEM STATEMENT
 The project aims to design and implement a client-server-based system that simulates a co-ordinated musical performance.
